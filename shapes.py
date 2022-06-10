@@ -35,8 +35,10 @@ class Sphere:
         A=(4*3.14)*(self.r)*(self.r)
         return f"the surface area is {A}"
     def volume(self) :
-        v=(4/3 *3.14)*(self.r)*(self.r)  
+        v=(4/3(3.14(self.r**3)))  
         return f"the volume is {v}" 
+
+    
 
 
 
